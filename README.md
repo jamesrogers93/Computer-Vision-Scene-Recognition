@@ -13,8 +13,8 @@ Image features extraction techniques used:
   - Spatial Pyramid Kernel HOG2X2
  
 Classifiers used to classify the image features:
-    - K Nearest Neighbour
-    - Support Vector Machine
+  - K Nearest Neighbour
+  - Support Vector Machine
   
 
 ### Results
