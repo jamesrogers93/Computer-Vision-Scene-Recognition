@@ -19,7 +19,11 @@ Classifiers used to classify the image features:
 
 ### Example Result
 
-An example result using the Spatial Pyramid Kernel HOG2X2 with the Support Vector Machine
+An example result using the Spatial Pyramid Kernel HOG2X2 with the Support Vector Machine.
+
+Accuracy: 76.5%
+
+Confusion matrix: 
 ![alt text](https://raw.githubusercontent.com/jamesrogers93/computer-vision-scene-recognition/master/figures/hog-confusion-matrix.png "Spatial Pyramid Kernel HOG2X2 with SVM")
   
 
