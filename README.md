@@ -18,7 +18,7 @@ Classifiers used to classify the image features:
   
 
 ### Results
-![alt text](https://github.com/jamesrogers93/computer-vision-scene-recognition/figures/hog-confusion-matrix.png "Spatial Pyramid Kernel HOG2X2 with SVM")
+![alt text](https://github.com/jamesrogers93/computer-vision-scene-recognition/master/figures/hog-confusion-matrix.png "Spatial Pyramid Kernel HOG2X2 with SVM")
   
 
 ### Installation
