@@ -17,7 +17,9 @@ Classifiers used to classify the image features:
   - Support Vector Machine
   
 
-### Results
+### Example Result
+
+An example result using the Spatial Pyramid Kernel HOG2X2 with the Support Vector Machine
 ![alt text](https://raw.githubusercontent.com/jamesrogers93/computer-vision-scene-recognition/master/figures/hog-confusion-matrix.png "Spatial Pyramid Kernel HOG2X2 with SVM")
   
 
