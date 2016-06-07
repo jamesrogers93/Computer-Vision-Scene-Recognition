@@ -2,7 +2,9 @@
 
 My computer vision coursework submitted at the University of East Anglia.
 
-The project classifies scenes from a subset of the SUN database in to 15 categories: Kitchen, Store, Bedroom, LivingRoom, House, Industrial, Stadium, Underwater, TallBuilding, Street, Highway, Field, Coast, Mountain, Forest.
+The goal of this project is to correctly categorise images using image feature extraction techniques and machine learning algorithms.
+
+The project classifies scenes from a subset of the SUN database in to 1 of 15 categories: Kitchen, Store, Bedroom, LivingRoom, House, Industrial, Stadium, Underwater, TallBuilding, Street, Highway, Field, Coast, Mountain, Forest.
 
 Image features extraction techniques used:
   - Tiny Images
