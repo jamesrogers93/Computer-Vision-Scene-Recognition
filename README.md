@@ -1,4 +1,4 @@
-# Computer Vision - Scene Recognition
+# Computer Vision - Image Catagorisation
 
 My computer vision coursework submitted at the University of East Anglia.
 
